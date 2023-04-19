@@ -1,0 +1,14 @@
+2023-04-15 14:56:36,411 :INFO :test_logging :Information statement
+2023-04-15 14:56:36,411 :WARNING :test_logging :Something is in warning mode
+2023-04-15 14:56:36,411 :ERROR :test_logging :A major error has happened
+2023-04-15 14:56:36,412 :CRITICAL :test_logging :Critical issue
+2023-04-15 15:25:31,948 :INFO :pyTestTestingFrameworkConcepts.BaseClass :['Gagan', 'Mann', 'rahulshettyacademy.com']
+2023-04-15 15:25:31,948 :INFO :pyTestTestingFrameworkConcepts.BaseClass :Gagan
+2023-04-15 15:26:48,759 :INFO :pyTestTestingFrameworkConcepts.BaseClass :['Gagan', 'Mann', 'rahulshettyacademy.com']
+2023-04-15 15:26:48,759 :INFO :pyTestTestingFrameworkConcepts.BaseClass :Gagan
+2023-04-15 15:26:54,617 :INFO :pyTestTestingFrameworkConcepts.BaseClass :['Gagan', 'Mann', 'rahulshettyacademy.com']
+2023-04-15 15:26:54,618 :INFO :pyTestTestingFrameworkConcepts.BaseClass :Mann
+2023-04-15 15:29:23,758 :INFO :test_editProfile :['Gagan', 'Mann', 'rahulshettyacademy.com']
+2023-04-15 15:29:23,758 :INFO :test_editProfile :Mann
+2023-04-15 15:39:31,373 :INFO :test_editProfile :['Gagan', 'Mann', 'rahulshettyacademy.com']
+2023-04-15 15:39:31,373 :INFO :test_editProfile :Gagan
